@@ -9,6 +9,7 @@ I and my team building this project together , INDRAA is Advanced Weather Foreca
   - Hourly and daily forecasts
   - Severe weather alerts
   - Customizable notifications
+  - Github copilot
 
 **Acknowledgements**
 
