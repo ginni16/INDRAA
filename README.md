@@ -10,6 +10,12 @@ I and my team building this project together , INDRAA is Advanced Weather Foreca
   - Severe weather alerts
   - Customizable notifications
   - Github copilot
+  
+**Github Repository**
+The source code for the Weather Forecasting system is available on Github at https://github.com/ginni16/INDRAA .
+
+**Contributing**
+
 
 **Acknowledgements**
 
