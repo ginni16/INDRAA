@@ -1,7 +1,7 @@
 # INDRAA
 Advanced Weather Forecasting Tool,
 
-I and my team building this project together , INDRAA is Advanced Weather Forecasting Tool that uses advanced algorithms and data analysis to provide precise weather forecasts for your location.
+I and my team building this project together,INDRAA is Advanced Weather Forecasting Tool that uses advanced algorithms and data analysis to provide precise weather forecasts for your location.
 
  **Key Features**
  
